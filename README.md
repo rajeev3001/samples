@@ -1,2 +1,2 @@
-# wso2-extensions
-Extensions for WSO2 Carbon products
+# Code Samples
+Samples/Extensions for WSO2 Carbon products
